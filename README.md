@@ -1,4 +1,4 @@
-<h2 align="center">👋 欢迎访问我的GitHub</h2>
+<h2 align="center">👋 Welcome to my GitHub</h2>
 <p align="center">
   <a href="https://github.com/north151"><img src="https://img.shields.io/badge/GitHub-ff79c6" alt="github"></a>
   <a href="https://gitee.com/north151"><img src="https://img.shields.io/badge/Gitee-fe7300" alt="gitee"></a>
@@ -11,13 +11,11 @@
 <img align='right' src="https://profile-counter.glitch.me/north151/count.svg" alt="访客数量"/>
 
 
-[![使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=north151&layout=compact)](https://github.com/north151/github-readme-stats)
-
-
 ![统计信息](https://github-readme-stats.vercel.app/api?username=north151&show_icons=true&theme=radical)
 
+[![使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=north151&layout=compact)](https://github.com/north151/github-readme-stats)
 
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
 
 
