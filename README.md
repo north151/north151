@@ -15,7 +15,7 @@
 
 [![使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=north151&layout=compact)](https://github.com/north151/github-readme-stats)
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" width="50">  <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" width="50"> <img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" width="50">
 
 
 
