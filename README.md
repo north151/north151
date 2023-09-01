@@ -18,21 +18,7 @@
 
 
 
-<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" width="50">
-
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" width="50">
+<img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" height="50" width="50"><img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" height="50" width="50">
 
 
 
